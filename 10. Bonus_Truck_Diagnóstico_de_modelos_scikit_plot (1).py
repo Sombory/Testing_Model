@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1r3Lwl1YX6oNEgh98ShnqjTXCLxv1c_NQ
 
 # Scikit - plot
-Construido sobre nuestro amigo matplotlib!
+Build with matplotlib!
 """
 
 pip install! scikit-plot
